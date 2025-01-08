@@ -70,9 +70,14 @@ I specialize in building dynamic, responsive, and scalable web applications usin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mijan2001&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mijan2001&theme=radical" alt="GitHub Streak Stats" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mijan2001&theme=radical&cache_seconds=86400" alt="GitHub Streak Stats">
 </p>
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mijan2001&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
