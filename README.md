@@ -1,6 +1,6 @@
 
 
-![Profile Image]("https://drive.google.com/file/d/1RWt5k6O8f5JsHFaVpkautIO9URV6S7-_/view?usp=sharing")
+![Profile Image](https://drive.google.com/uc?export=view&id=1RWt5k6O8f5JsHFaVpkautIO9URV6S7-_)
 
 <h1 align="center">Hi 👋, I'm Mijanur Rahman</h1>
 <h3 align="center">I am a Full Stack Developer with a huge love for ReactJS, NodeJS, Everything API, RDBMS, TailwindCSS and System Architecture. Currently, I'm looking for job.</h3>
