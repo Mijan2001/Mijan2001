@@ -6,7 +6,7 @@
 <h3 align="center">A Passionate Complete MERN Stack Web Developer</h3>
 
 <p align="center">
-I specialize in building dynamic, responsive, and scalable web applications using the MERN stack. I'm always eager to learn new technologies and contribute to impactful projects.
+  I'm a self-taught passionate Web Application Developer comfortable with React and Next.js framework and learning MERN stack, with a background in competitive programming. I have completed several real world MERN stack projects and continuously learning new web tools and technologies. I am passionate about solving real-world business problems through efficient and scalable web solutions. My focus is on understanding project needs, finding the best approach and delivering high-quality applications. I can develop scalable REST APIs using Node.js,Express.js & MongoDB.I specialize in building dynamic, responsive, and scalable web applications using the MERN stack. I'm always eager to learn new technologies and contribute to impactful projects.
 </p>
 
 ---
