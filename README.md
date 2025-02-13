@@ -1,6 +1,6 @@
 
 
-![Profile Image](https://github.com/Mijan2001/git-hub-profile-image/blob/main/githubprofile.png)
+![Profile Image](https://github.com/Mijan2001/git-hub-profile-image/blob/main/port-folio-banner.png)
 
 <h1 align="center">Hi 👋, I'm Mijanur Rahman</h1>
 <h3 align="center">A Passionate Complete MERN Stack Web Developer</h3>
